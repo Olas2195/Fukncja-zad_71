@@ -1,9 +1,0 @@
-[
-{"string": "kobylamamalybok", "palindrom": "TAK"};
-{"string": "abc", "palindrom": "NIE"};
-{"string": "aaa", "palindrom": "TAK"};
-{"string": "abba", "palindrom": "TAK"};
-{"string": "121", "palindrom": "TAK"};
-{"string": "1221", "palindrom": "TAK"};
-{"string": "aaab", "palindrom": "NIE"};
-]
